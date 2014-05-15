@@ -1,7 +1,6 @@
-questions-to-employer
+Good questions to ask an employer
 =====================
 
-Good questions to ask an employer
 
 * What's the worst thing about working here?
 * What do you see as the biggest challenge facing the company right now?
